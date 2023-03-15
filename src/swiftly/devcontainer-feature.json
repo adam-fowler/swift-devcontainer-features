@@ -1,0 +1,11 @@
+{
+    "name": "swiftly",
+    "id": "swiftly",
+    "version": "0.1.0",
+    "description": "A feature that installs swiftly the swift installer.",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils",
+        "ghcr.io/devcontainers/features/git"
+    ]
+}
